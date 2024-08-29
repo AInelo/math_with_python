@@ -20,7 +20,7 @@ def list_directory_by_size(directory_path):
         print(f"{item}: {size_mb:.2f} MB")
 
 # Définissez le chemin du répertoire
-directory_path = r'D:\\' 
+directory_path = r'C:\Users\HP\Desktop\CV TOTON-BAD\Banque de Formation' 
 # Liste les éléments du répertoire par taille décroissante en Mo
 list_directory_by_size(directory_path)
 
