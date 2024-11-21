@@ -25,14 +25,14 @@ def reduce_image_size(input_image_path, output_image_path, percent_reduction):
 # input_image_path = 'chemin/vers/votre/image.jpg'
 # input_image_path = r'C:\Users\HP\Documents\impactandpartners\Application_Web_Plan_Comptable_Impact_And_Partners\frontend\dashboard\static\profildashboard\non_lucratif.jpg'
 
-input_image_path = r'C:\Users\HP\Pictures\IMAGE_REZIZER\sign-in-page.png'
+input_image_path = r'C:\Users\HP\Pictures\math_with_python\image\resizer\logo-sw.png'
 
-output_image_path = r'C:\Users\HP\Pictures\IMAGE_REZIZER\rezizer\sign-in-page.png'
+output_image_path = r'C:\Users\HP\Pictures\math_with_python\image\resizer\logo-sw-next.png'
 
 # output_image_path = r'C:\Users\HP\Documents\impactandpartners\Application_Web_Plan_Comptable_Impact_And_Partners\frontend\dashboard\static\profildashboard\reduce\non_lucratif.jpg'
 
 # Pourcentage de réduction de taille
-percent_reduction = 50
+percent_reduction = 70
 
 # Appel de la fonction pour réduire la taille de l'image
 reduce_image_size(input_image_path, output_image_path, percent_reduction)

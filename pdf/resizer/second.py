@@ -21,3 +21,4 @@ output_pdf = "/home/ainelo23/Desktop/math_with_python/pdf/resizer/VF_Diplôme_et
 compress_pdf(input_pdf, output_pdf)
 
 print(f"Le fichier a été compressé et sauvegardé sous {output_pdf}")
+
